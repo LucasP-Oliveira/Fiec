@@ -1,0 +1,3 @@
+[submodule "controleestoque-front"]
+	path = controleestoque-front
+	url = https://github.com/LucasP-Oliveira/controleestoque-front.git
